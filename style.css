@@ -13,6 +13,6 @@
     /* height:200px; */
     filter:drop-shadow(1px 1px 1px rgba(0,0,0,0.8));
 }
-section{
+section,footer{
     padding:.5px 0;
 }

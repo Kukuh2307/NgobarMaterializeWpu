@@ -18,3 +18,9 @@ M.Parallax.init(parallax);
 // materialbox
 const materialbox = document.querySelectorAll('.materialboxed');
 M.Materialbox.init(materialbox);
+
+// scrollspy
+const scrollspy = document.querySelectorAll('.scrollspy');
+M.ScrollSpy.init(scrollspy, {
+    scrollOffset: 50
+});
